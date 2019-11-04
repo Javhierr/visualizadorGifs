@@ -1,0 +1,27 @@
+[
+	{
+		"nombre": "gordo bailando",
+		"categoria": "gordos,baile",
+		"url": "https://media1.tenor.com/images/4634f27c4df45b4e2f645a4d9bdf3f16/tenor.gif"
+	},
+	{
+		"nombre": "los simpson bailando",
+		"categoria": "simpson,baile",
+		"url": "https://tenor.com/view/the-simpsons-dance-family-gif-3628979.gif"
+	},
+	{
+		"nombre": "gato gordo",
+		"categoria": "gordos,gatos",
+		"url": "https://media.giphy.com/media/Zu6AATBpCeUzm/giphy.gif"
+	},
+	{
+		"nombre": "homero en tractor",
+		"categoria": "gordos,homero,simpson",
+		"url": "https://tenor.com/view/homer-simpson-jiggling-for-justice-simpsons-fat-jiggles-gif-4394456.gif"
+	},
+	{
+		"nombre": "duendes peleando",
+		"categoria": "duendes,enanos,simpson",
+		"url": "https://tenor.com/view/the-simpsons-irish-leprechaun-fight-me-fight-gif-7129954.gif"
+	}
+]
